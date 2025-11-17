@@ -1,4 +1,4 @@
-**Jogo da Memória**
+# Jogo da Memória**
 
 **Descrição**:
 - Projeto simples de um jogo da memória feito com **HTML**, **CSS** e **JavaScript** (Vanilla).
